@@ -24,6 +24,9 @@ http://www.springframework.org/schema/security/spring-security.xsd">
 	
 	<context:property-placeholder location="classpath:ldap.properties"/>
 	
+	
+	
+	
 	<authentication-manager>
       <ldap-authentication-provider
          user-search-filter="${ldap.usersearchfilter}"
