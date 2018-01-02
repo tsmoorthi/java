@@ -45,4 +45,9 @@ http://www.springframework.org/schema/security/spring-security.xsd">
 		secured-annotations="enabled" jsr250-annotations="enabled"
 		pre-post-annotations="enabled">
 	</global-method-security>
+	
+	
+	
+	
+	
 </beans:beans>		
